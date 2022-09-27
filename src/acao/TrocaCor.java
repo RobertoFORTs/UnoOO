@@ -7,5 +7,6 @@ public class TrocaCor extends Acao {
 
   public String mudarCor(String cor) {
     //Jogada.mudarCor();
+    //altera para a cor desejada
   }
 }

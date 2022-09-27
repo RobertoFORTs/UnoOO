@@ -10,6 +10,7 @@ public class Mais4 extends Acao {
     for(int cont = 0; cont<4 ; cont++){
     roda.comprarCarta(roda.proximoJogador());
     //Jogada.mudarCor();
+    //retorna a função comprarCarta N vezes, contabilizando a quantidade de repetições de mais 4
   }
-  roda.pular();
+  roda.pular();//pula-se a vez de quem compra
 }
